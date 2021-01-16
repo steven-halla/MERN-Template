@@ -1,4 +1,5 @@
 const PersonController = require('../controllers/person.controller');
+const {Person} = require('../models/person.model');
 
 
 
